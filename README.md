@@ -22,5 +22,8 @@
 
 -install react-redux and toolkit
 -create a store=>add a provider to app.js=>create a slice &export it
+-login and see if data is taken by store
+-navbar update sas login
+-refactor code to add constants file+create a components folder
 
 
