@@ -27,3 +27,7 @@
 -refactor code to add constants file+create a components folder
 
 
+-you should not ABLE TO ACCESSS other routes without login
+-if token is not present redirect to login page
+
+
