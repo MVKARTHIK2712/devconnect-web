@@ -29,5 +29,5 @@
 
 -you should not ABLE TO ACCESSS other routes without login
 -if token is not present redirect to login page
-
-
+-logout is done
+-profile
