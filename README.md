@@ -30,4 +30,5 @@
 -you should not ABLE TO ACCESSS other routes without login
 -if token is not present redirect to login page
 -logout is done
--profile
+-get thefeed and add the feed in the store
+-built the user card and the feed
