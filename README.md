@@ -32,3 +32,7 @@
 -logout is done
 -get thefeed and add the feed in the store
 -built the user card and the feed
+-edit profile feature
+-shoe Toast message on save of profile
+
+-see all my connections
