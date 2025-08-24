@@ -35,4 +35,6 @@
 -edit profile feature
 -shoe Toast message on save of profile
 
--see all my connections
+-New page-see all my connections
+-New page-to see all my connection requests
+
