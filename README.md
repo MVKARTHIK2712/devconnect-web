@@ -41,8 +41,5 @@
 -feature to accept /reject connection request
 -all the requests are empty it just goes of
 --send /ignore the user card from feed
-
-
- # remaining
 -signup new user
 -e2e testing
