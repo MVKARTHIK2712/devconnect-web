@@ -38,3 +38,10 @@
 -New page-see all my connections
 -New page-to see all my connection requests
 
+-feature to accept /reject connection request
+-all the requests are empty it just goes of
+
+ # remaining
+-send /ignore the user card from feed
+-signup new user
+-e2e testing
